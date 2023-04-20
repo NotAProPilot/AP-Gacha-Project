@@ -1,2 +1,7 @@
 # AP-Gacha-Project
-A bunch of answer sheet for those who'd like to pass PST class in HANU and enjoy not learning this class again.
+## Overview
+- The program will be divided into 4 parts
+1. Basics about Probability 
+2. Conditional probability and Bayes' Theorem
+3. Distribution Functions
+4. Sampling
